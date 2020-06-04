@@ -1,0 +1,8 @@
+sentence	class_code	class_name
+watson good is emma	1	good
+learn did not	1	good
+lets check if it detects good english	0	bad
+i cannot spell -62734 in english	0	bad
+git error --code457 	0	bad
+this is fantastic	1	good
+team@datamundi is great	1	good
